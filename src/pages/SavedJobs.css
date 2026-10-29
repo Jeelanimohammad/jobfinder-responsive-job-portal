@@ -1,0 +1,109 @@
+.saved-jobs-page {
+  padding-bottom: 4rem;
+}
+
+.saved-jobs-header-banner {
+  background: linear-gradient(180deg, #f0fdf4 0%, var(--bg-main) 100%);
+  padding: 3.5rem 0 2rem;
+  border-bottom: 1px solid var(--border-light);
+  margin-bottom: 2.5rem;
+}
+
+.saved-header-content {
+  text-align: center;
+  max-width: 680px;
+  margin: 0 auto;
+}
+
+.saved-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.8125rem;
+  font-weight: 700;
+  color: #047857;
+  background-color: var(--accent-light);
+  padding: 0.35rem 0.875rem;
+  border-radius: var(--radius-full);
+  margin-bottom: 1rem;
+}
+
+.saved-page-title {
+  font-size: 2.25rem;
+  font-weight: 800;
+  margin-bottom: 0.75rem;
+  letter-spacing: -0.02em;
+}
+
+.saved-page-subtitle {
+  font-size: 1rem;
+  color: var(--text-secondary);
+}
+
+.saved-empty-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 4.5rem 1.5rem;
+  background: #ffffff;
+  border: 1px dashed var(--border-medium);
+  border-radius: var(--radius-xl);
+  max-width: 580px;
+  margin: 2rem auto;
+  gap: 1.25rem;
+}
+
+.saved-empty-icon-box {
+  width: 76px;
+  height: 76px;
+  border-radius: 50%;
+  background-color: var(--bg-muted);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.saved-empty-icon {
+  color: var(--text-light);
+}
+
+.saved-empty-title {
+  font-size: 1.4rem;
+  font-weight: 700;
+}
+
+.saved-empty-desc {
+  font-size: 0.95rem;
+  color: var(--text-secondary);
+  line-height: 1.6;
+}
+
+.saved-stats-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1.75rem;
+  padding: 1rem 1.25rem;
+  background: #ffffff;
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius-md);
+}
+
+.saved-count-indicator {
+  font-size: 0.9375rem;
+  color: var(--text-secondary);
+}
+
+.btn-continue-search {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: var(--primary);
+}
+
+.btn-continue-search:hover {
+  transform: translateX(3px);
+}
