@@ -4,6 +4,16 @@ A modern, responsive, and feature-rich Job Search Portal and Career Application 
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Home & Job Listings
+![JobFinder Home & Browse](docs/screenshots/jobfinder_preview.jpg)
+
+### 📊 Application Tracker
+![JobFinder Application Tracker](docs/screenshots/jobfinder_tracker.jpg)
+
+---
+
 ## 🌟 Key Features
 
 - 🔍 **Live Search & Multi-Criteria Filtering**: Filter jobs instantly by role title, keywords, location, employment type (Full-time, Part-time, Contract, Remote, Internship), and experience level.
